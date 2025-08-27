@@ -30,6 +30,10 @@ Changelog:
 
 Added README file, Website Proposal, and html file structure.
 
+Tools Used:
+
+Smartdraw for diagrams, Microsoft Word for text, Visual Studio for code.
+
 References:
 
 •	Big Web Media, (2024) How Much Does A WordPress Website Cost in South Africa? [Online] Available at: https://www.bigwebmedia.co.za/how-much-does-a-wordpress-website-cost-to-make/ 

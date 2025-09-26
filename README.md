@@ -68,5 +68,5 @@ References:
 • WWF-UK, 2025. 60 Years of Action. WWF. [Online] Available at: https://www.wwf.org.uk/60-years-of-action
 (Accessed: 26 September 2025).
 
-• WWF-UK, 2025. We’re protecting our planet’s iconic animals [Online]. Available at: https://www.wwf.org.uk/learn/wildlife
-  (Accessed 26 September 2025).
+• WWF-UK, 2025. We’re protecting our planet’s iconic animals [Online] Available at: https://www.wwf.org.uk/learn/wildlife
+(Accessed 26 September 2025).

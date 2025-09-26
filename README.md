@@ -20,7 +20,7 @@ The suggested website would feature a simplified homepage with featured campaign
 
 Project Timeline:
 
-The project will follow the subject submission timeline. Part 1, which involves research and planning, is due on 27 August 2025 and will cover research and website proposals. Part 2, due on 26 September 2025, will involve designing the layout, wireframes, and website creation according to feedback. Part 3, due in October 2025, will involve the complete development of the website, testing, optimisation, and final deployment.
+The project will follow the subject submission timeline. Part 1, which involves research and planning, is due on 27 August 2025 and will cover research and website proposals. Part 2, due on 26 September 2025, will involve designing the layout, wireframes, and website creation according to feedback. Part 3, due on 19 November 2025, will involve the complete development of the website, testing, optimisation, and final deployment.
 
 Part 1 Details:
 

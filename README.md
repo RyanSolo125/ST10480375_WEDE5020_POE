@@ -77,3 +77,6 @@ References:
 
 • WWF-UK, 2025. We’re protecting our planet’s iconic animals [Online] Available at: https://www.wwf.org.uk/learn/wildlife
 (Accessed 26 September 2025).
+
+• WWF-UK, 2025. Our Work With Schools [Online] Available at: https://www.wwf.org.uk/get-involved/schools
+ (Accessed 26 September 2025).

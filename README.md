@@ -33,7 +33,7 @@ Added more to my html code and used css for better styling.
 Changelog:
 
 1) Added README file, Website Proposal, and html file structure.
-2) Changed the layout of the website for easier development and to keep it looking streamlined. Tested the website on multiple browsers. Added css to style my web pages, updated the README, added more references, added images to the website, added screenshots of different screen sizes.
+2) Changed the layout of the website for easier development and to keep it looking simple but good (I will possibly change it again to be more advanced for part 3 with java script). Tested the website on multiple browsers. Added css to style my web pages, added more html code to work with the css, updated the README, added more references, added images to the website, added screenshots of different screen sizes.
 
 Tools Used:
 

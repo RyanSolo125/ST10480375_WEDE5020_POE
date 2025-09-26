@@ -28,7 +28,8 @@ Project currently contain Website Proposal and HTML File structure.
 
 Changelog:
 
-Added README file, Website Proposal, and html file structure.
+1) Added README file, Website Proposal, and html file structure.
+2) Changed the layout of the website for easier development and to keep it looking streamlined.. Added css to style my web pages, updated the README, added more references, added images to the website, added screenshots of different screen sizes.
 
 Tools Used:
 

@@ -1,11 +1,12 @@
 
-/* base styling*/
+/* css reset*/
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
+/* base styling*/
 html {
   font-size: 100%; /* base = 16px */
   scroll-behavior: smooth;
@@ -212,3 +213,4 @@ footer {
   .hero { padding: 25px 15px; }
   .btn { width: 100%; text-align: center; }
 }
+

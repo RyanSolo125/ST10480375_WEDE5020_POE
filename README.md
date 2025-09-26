@@ -59,3 +59,6 @@ References:
 
 •	WWF, South Africa (2025) About Us. [Online] Available at: https://www.wwf.org.za/ 
 (Accessed: 21 August 2025).
+
+• WWF-UK, 2025. 60 Years of Action. WWF. [online] Available at: https://www.wwf.org.uk/60-years-of-action
+(Accessed: 26 September 2025).

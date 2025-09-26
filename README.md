@@ -26,6 +26,10 @@ Part 1 Details:
 
 Project currently contain Website Proposal and HTML File structure.
 
+Part 2 Details:
+
+Added more to my html code and used css for better styling.
+
 Changelog:
 
 1) Added README file, Website Proposal, and html file structure.

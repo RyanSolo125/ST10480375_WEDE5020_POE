@@ -39,6 +39,12 @@ Tools Used:
 
 Smartdraw for diagrams, Microsoft Word for text, Visual Studio for code.
 
+Screenshots of screen sizes:
+<img width="1913" height="985" alt="image" src="https://github.com/user-attachments/assets/c0651373-99a3-4b15-9fc7-d99be83077f6" />
+<img width="730" height="789" alt="image" src="https://github.com/user-attachments/assets/21c78ca5-26f4-439e-be29-3a6d052e19fe" />
+<img width="491" height="886" alt="image" src="https://github.com/user-attachments/assets/140b460f-8e46-4964-bbe2-b9afb7b80345" />
+
+
 References:
 
 •	Big Web Media, (2024) How Much Does A WordPress Website Cost in South Africa? [Online] Available at: https://www.bigwebmedia.co.za/how-much-does-a-wordpress-website-cost-to-make/ 

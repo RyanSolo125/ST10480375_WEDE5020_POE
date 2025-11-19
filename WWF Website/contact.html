@@ -3,6 +3,10 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="WWF conservation, wildlife protection, climate action and environmental education.">
+<meta name="keywords" content="WWF, wildlife, conservation, climate change, environment, oceans, animals">
+<script src="js/main.js" defer></script>
+
   <title>WWF Website - Contact</title>
   <link rel="stylesheet" href="css/style.css">
 </head>
@@ -22,14 +26,31 @@
   </nav>
 
   <main>
-    <h2>Get in Touch</h2>
-    <p>You can contact us via the following methods:</p>
-    <ul>
-      <li>Email: <a href="mailto:info@wwf.org">info@wwf.org</a></li>
-      <li>Phone: +1 (555) 123-4567</li>
-      <li>Address: 123 WWF Street, Conservation City</li>
-    </ul>
-  </main>
+    <h2>Contact Us</h2>
+
+<form id="contactForm" action="#" method="post">
+    
+    <label for="cname">Full Name:</label>
+    <input type="text" id="cname" name="cname" required>
+
+    <label for="cemail">Email Address:</label>
+    <input type="email" id="cemail" name="cemail" required>
+
+    <label for="ctype">Type of Message:</label>
+    <select id="ctype" name="ctype" required>
+        <option value="">Select an option</option>
+        <option value="General Enquiry">General Enquiry</option>
+        <option value="Feedback">Feedback</option>
+        <option value="Complaint">Complaint</option>
+    </select>
+
+    <label for="cmessage">Message:</label>
+    <textarea id="cmessage" name="cmessage" rows="5" required></textarea>
+
+    <button type="submit">Send Message</button>
+</form>
+</main>
+
 
   <footer>
     <p>&copy; 2025 WWF Website. All rights reserved.</p>

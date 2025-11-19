@@ -35,7 +35,7 @@ Changelog:
 1) Added README file, Website Proposal, and html file structure.
 2) Changed the layout of the website for easier development and to keep it looking simple but good (I will possibly change it again to be more advanced for part 3 with java script). Tested the website on multiple browsers. Added css to style my web pages, added more html code to work with the css, updated the README, added more references, added images to the website, added screenshots of different screen sizes.
 3) Updates include fixing missing form fields, adding the full contact form, correcting HTML structure, and ensuring all inputs have proper attributes. Pages now use improved semantic layout, linked styling, and consistent navigation. Form readability, responsiveness, and accessibility were enhanced, and key bugs with missing tags and field IDs were resolved. Basic JavaScript validation and user feedback features were added or prepared for implementation.
-Updated all file, and added robots.txt and sitemap.xml.
+Updated all files, and added robots.txt and sitemap.xml.
 
 Tools Used:
 

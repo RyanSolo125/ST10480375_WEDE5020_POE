@@ -3,13 +3,19 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="WWF conservation, wildlife protection, climate action and environmental education.">
+<meta name="keywords" content="WWF, wildlife, conservation, climate change, environment, oceans, animals">
+<script src="js/main.js" defer></script>
+
   <title>WWF Website - Services</title>
   <link rel="stylesheet" href="css/style.css">
 </head>
+
 <body>
   <header>
     <h1>Our Services</h1>
   </header>
+
 
   <nav>
     <ul>
@@ -23,24 +29,35 @@
 
  <main>
   <h2>What We Do</h2>
-<ul>
-  <li>
-    <p>Wildlife protection and habitat conservation. WWF works to safeguard endangered species such as rhinos, elephants, tigers, and pandas. We focus on protecting forests, grasslands, wetlands, and other critical habitats that are essential for biodiversity. Through scientific research, anti-poaching initiatives, and habitat restoration, we help ensure wildlife can thrive for generations to come.</p>
-    <img src="images/service1.jpg" alt="https://www.wwf.org.uk/learn/wildlife/asian-rhinos">
-  </li>
-  <li>
-    <p>Climate change awareness and solutions. WWF campaigns for urgent action to address climate change by promoting renewable energy, reducing carbon emissions, and encouraging sustainable lifestyles. We work with governments, businesses, and communities to develop solutions that protect the planet and build resilience against environmental challenges.</p>
-    <img src="images/service2.jpg" alt="https://www.wwf.org.uk/learn/climate-change">
-  </li>
-  <li>
-    <p>Marine and freshwater preservation. WWF protects oceans, rivers, and lakes, addressing threats such as overfishing, pollution, and habitat loss. We work to conserve marine species including dolphins, turtles, and coral reefs, while promoting sustainable fishing practices and clean waterways to maintain healthy ecosystems.</p>
-    <img src="images/service3.jpg" alt="https://www.wwf.org.uk/learn/wildlife/dolphins">
-  </li>
-  <li>
-    <p>Education and engagement. WWF inspires people of all ages through educational programmes, school initiatives, and community projects. We provide resources and guidance that empower individuals to take action for nature and understand the importance of protecting wildlife, habitats, and the climate for the future of the planet.</p>
-    <img src="images/service4.jpg" alt="https://www.wwf.org.uk/get-involved/schools">
-  </li>
-</ul>
+
+<ul id="services-list"></ul>
+
+<h2>FAQ</h2>
+<div class="accordion">
+  <button class="accordion-btn">What does WWF do?</button>
+  <div class="accordion-content">
+    <p>WWF protects wildlife, oceans, forests, and fights climate change worldwide.</p>
+  </div>
+
+  <button class="accordion-btn">How can I help?</button>
+  <div class="accordion-content">
+    <p>You can donate, volunteer, or support conservation campaigns.</p>
+  </div>
+</div>
+
+<h2>Gallery</h2>
+<div class="gallery">
+  <img src="images/service1.jpg" class="lightbox-img">
+  <img src="images/service2.jpg" class="lightbox-img">
+  <img src="images/service3.jpg" class="lightbox-img">
+</div>
+
+<div id="lightbox">
+  <img id="lightbox-image">
+</div>
+
+
+
 </main>
 
 

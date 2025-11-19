@@ -30,6 +30,10 @@ Part 2 Details:
 
 Added more to my html code and used css for better styling.
 
+Part 3 Details:
+
+Added java script for more interaction, fixed forms and css, made web pages more interactive.
+
 Changelog:
 
 1) Added README file, Website Proposal, and html file structure.
